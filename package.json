@@ -1,0 +1,29 @@
+{
+  "name": "api-novnc",
+  "version": "1.0.0",
+  "description": "backend api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "start": "nodemon --quiet --exec ts-node --watch src/ src/index.js"
+  },
+  "author": "Deyvi-dev",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "docker-event-stream": "^1.1.0",
+    "dockerode": "^3.3.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "supertest": "^6.3.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
