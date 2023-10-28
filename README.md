@@ -4,11 +4,11 @@ API NoVNC - Abre um container com noVNC e exibe uma desktop virtual da URL forne
 
 ## Descrição
 
-Este projeto é uma API que, a partir do envio de uma request, abre um container com noVNC e exibe uma desktop virtual da URL fornecida. O objetivo é permitir que os usuários acessem sites e aplicativos de forma segura e isolada em um ambiente virtual.
+Este projeto é uma API que a partir do envio de uma request, abre um container com noVNC e exibe uma desktop virtual da URL fornecida. O objetivo é permitir que os usuários acessem sites e aplicativos de forma segura e isolada em um ambiente virtual.
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter o Docker instalado em sua máquina. Você pode baixá-lo em: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+Antes de começar certifique-se de ter o Docker instalado em sua máquina. Você pode baixá-lo em: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
 ## Instalação
 
